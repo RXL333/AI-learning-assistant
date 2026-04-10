@@ -1,15 +1,15 @@
 # AI 学习助手
 
-!\[Python]\(https\://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge\&logo=python\&logoColor=white null)
-!\[FastAPI]\(https\://img.shields.io/badge/FastAPI-0.116-009688?style=for-the-badge\&logo=fastapi\&logoColor=white null)
-!\[Vue]\(https\://img.shields.io/badge/Vue-3-42B883?style=for-the-badge\&logo=vuedotjs\&logoColor=white null)
-!\[Vite]\(https\://img.shields.io/badge/Vite-7-646CFF?style=for-the-badge\&logo=vite\&logoColor=white null)
-!\[SQLAlchemy]\(https\://img.shields.io/badge/SQLAlchemy-2.0-D71F00?style=for-the-badge\&logo=sqlalchemy\&logoColor=white null)
-!\[SQLite]\(https\://img.shields.io/badge/SQLite-Default-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white null)
-!\[MySQL]\(https\://img.shields.io/badge/MySQL-Optional-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white null)
-!\[OpenAI Compatible]\(https\://img.shields.io/badge/OpenAI-Compatible-111111?style=for-the-badge\&logo=openai\&logoColor=white null)
-!\[Status]\(https\://img.shields.io/badge/Status-Ready%20for%20Portfolio-8A5CF6?style=for-the-badge null)
-!\[License]\(https\://img.shields.io/badge/License-Add%20Your%20Own-lightgrey?style=for-the-badge null)
+!\[Python]\(https\://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+!\[FastAPI]\(https\://img.shields.io/badge/FastAPI-0.116-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+!\[Vue]\(https\://img.shields.io/badge/Vue-3-42B883?style=for-the-badge\&logo=vuedotjs\&logoColor=white)
+!\[Vite]\(https\://img.shields.io/badge/Vite-7-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+!\[SQLAlchemy]\(https\://img.shields.io/badge/SQLAlchemy-2.0-D71F00?style=for-the-badge\&logo=sqlalchemy\&logoColor=white)
+!\[SQLite]\(https\://img.shields.io/badge/SQLite-Default-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+!\[MySQL]\(https\://img.shields.io/badge/MySQL-Optional-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+!\[OpenAI Compatible]\(https\://img.shields.io/badge/OpenAI-Compatible-111111?style=for-the-badge\&logo=openai\&logoColor=white)
+!\[Status]\(https\://img.shields.io/badge/Status-Ready%20for%20Portfolio-8A5CF6?style=for-the-badge)
+!\[License]\(https\://img.shields.io/badge/License-Add%20Your%20Own-lightgrey?style=for-the-badge)
 
 <br />
 
